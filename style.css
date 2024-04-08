@@ -1,5 +1,16 @@
+body {
+  text-align: center;
+  font-family: 'Trebuchet MS', sans-serif;
+  background-color: yellow;
+}
 
+h2 {
+  color: green;
+}
 
+h2.apple {
+  color: red;
+}
 
 img {
     width: 150px;
